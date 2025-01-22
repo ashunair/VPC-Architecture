@@ -1,7 +1,4 @@
 
-# VPC-Architecture
- 
-
 
 # Deploy Scalable VPC Architecture on AWS Cloud
 
