@@ -2,7 +2,7 @@
 
 # Deploy Scalable VPC Architecture on AWS Cloud
 
-![AWS-Cloud](https://imgur.com/AXD50yl.png)
+![AWS-Cloud](https://raw.githubusercontent.com/ashunair/VPC-Architecture/refs/heads/main/VPC%20Architecture.svg)
 
 ### TABLE OF CONTENTS
 
